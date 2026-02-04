@@ -1,6 +1,4 @@
-# IA-Mentor-de-Carreira
-Desafio de Projeto IA Mentor de Carreira: Descubra Seu Futuro em Tech - Curso Caixa IA na Prática
-Excelente escolha! 🎯
+# Desafio de Projeto IA Mentor de Carreira: Descubra Seu Futuro em Tech - Curso Caixa IA na Prática
 
 # Resposta da IA para o prompt AGENT 2 - Planejador de Carreiras
 
